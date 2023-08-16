@@ -10,13 +10,13 @@ This program will allow users to process all the orders using a single thread or
 
 
 ## Example 1
------ Order details for client with Id: 1001 -----
-Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 2, Cost: $30.00
-Item's name: Lamp, Cost per item: $3.50, Quantity: 1, Cost: $3.50
-Item's name: Phone, Cost per item: $13.75, Quantity: 2, Cost: $27.50
-Item's name: Shoes, Cost per item: $30.00, Quantity: 1, Cost: $30.00
-Item's name: Song, Cost per item: $2.00, Quantity: 1, Cost: $2.00
-Order Total: $93.00
+----- Order details for client with Id: 1001 ----- \\
+Item's name: Blu-Ray, Cost per item: $15.00, Quantity: 2, Cost: $30.00 \\
+Item's name: Lamp, Cost per item: $3.50, Quantity: 1, Cost: $3.50 \\
+Item's name: Phone, Cost per item: $13.75, Quantity: 2, Cost: $27.50 \\
+Item's name: Shoes, Cost per item: $30.00, Quantity: 1, Cost: $30.00 \\
+Item's name: Song, Cost per item: $2.00, Quantity: 1, Cost: $2.00 \\
+Order Total: $93.00 \\
 ----- Order details for client with Id: 1002 -----
 Item's name: MovieRental, Cost per item: $4.00, Quantity: 1, Cost: $4.00
 Item's name: Phone, Cost per item: $13.75, Quantity: 1, Cost: $13.75
