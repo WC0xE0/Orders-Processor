@@ -9,7 +9,7 @@ public class Orders {
 	private ClientData summary;
 	
 	public Orders() {
-		// shared data structure:
+		// shared data structure, need to prevent data races:
 		ordersCollection = new TreeSet<ClientData>();
 		summary = new ClientData();
 	}
